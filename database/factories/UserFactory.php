@@ -45,4 +45,3 @@ class UserFactory extends Factory
         });
     }
 }
-Alexandre ta puto! 
